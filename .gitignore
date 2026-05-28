@@ -16,3 +16,5 @@ pnpm-debug.log*
 # System files
 .DS_Store
 Thumbs.db
+# internal folder
+raw_data
