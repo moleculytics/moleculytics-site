@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://moleculytics.in/sitemap-index.xml
